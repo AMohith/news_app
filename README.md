@@ -9,6 +9,7 @@ A News App that displays a list of articles upon app launch. The application use
 
 ### References
 - [Medium blog: Dart asynchronous programming: Isolates and event loops](https://medium.com/dartlang/dart-asynchronous-programming-isolates-and-event-loops-bffc3e296a6a)
+- [Medium blog: Understanding isolates in Flutter](https://medium.com/flutter-community/understanding-isolates-in-flutter-5b26ec4ed627)
 - [YouTube: Isolates and multithreading in Flutter (The Boring Flutter Development Show, Ep. 30)](https://www.youtube.com/watch?v=qrFTt1NZed8)
 
 
