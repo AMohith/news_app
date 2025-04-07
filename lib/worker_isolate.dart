@@ -25,7 +25,7 @@ class WorkerIsolate {
   Future<void> get isReady => _isolateReady.future;
 
   /// API Key for a mock news api website https://newsapi.org/
-  static const String _apiKey = '0cb5e2234b6b462488051d05e7b92a40';
+  static const String _apiKey = '###';
   final String _baseUrl =
       'https://newsapi.org/v2/everything?q=apple&from=2023-12-20&to=2023-12-20&sortBy=popularity&apiKey=$_apiKey';
 
